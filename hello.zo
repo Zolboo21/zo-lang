@@ -1,0 +1,6 @@
+#!/usr/bin/env zo-runner
+define function greet that takes name
+    print "Hello,"
+    set msg to name
+    print "Welcome"
+end
